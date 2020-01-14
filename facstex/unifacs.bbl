@@ -1,0 +1,25 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Huizinga 2014]{Huizinga2014}
+\abntrefinfo{Huizinga}{HUIZINGA}{2014}
+{HUIZINGA, J. \textbf{Homo Ludens: O Jogo como Elemento da Cultura}. 8. ed.
+  São Paulo: Perspectiva, 2014.}
+
+\bibitem[Imgur 2013]{Imgur2013}
+\abntrefinfo{Imgur}{IMGUR}{2013}
+{IMGUR. \textbf{{The King's Landing}}. 2013.
+Dispon{\'\i}vel em: \url{https://imgur.com/a/XfCkQ}. Acesso em: 12 abr. 2018.}
+
+\bibitem[Newzoo 2019]{Newzoo2019}
+\abntrefinfo{Newzoo}{NEWZOO}{2019}
+{NEWZOO. \textbf{Most played core PC games}. 2019.
+Dispon{\'\i}vel em:
+  \url{https://newzoo.com/insights/rankings/top-20-core-pc-games}. Acesso em:
+  22 mai. 2019.}
+
+\end{thebibliography}
