@@ -1,0 +1,55 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Higa 2018]{TecnoBlog}
+\abntrefinfo{Higa}{HIGA}{2018}
+{HIGA, P. \textbf{Bancos de Dados autônomo: o que é e como funciona}. 2018.
+Dispon{\'\i}vel em:
+  \url{https://tecnoblog.net/245297/banco-de-dados-autonomo-o-que-e-como-funciona/}.
+  Acesso em: 12 jan. 2019.}
+
+\bibitem[Huizinga 2014]{Huizinga2014}
+\abntrefinfo{Huizinga}{HUIZINGA}{2014}
+{HUIZINGA, J. \textbf{Homo Ludens: O Jogo como Elemento da Cultura}. 8. ed.
+  São Paulo: Perspectiva, 2014.}
+
+\bibitem[Imgur 2013]{Imgur2013}
+\abntrefinfo{Imgur}{IMGUR}{2013}
+{IMGUR. \textbf{{The King's Landing}}. 2013.
+Dispon{\'\i}vel em: \url{https://imgur.com/a/XfCkQ}. Acesso em: 12 abr. 2018.}
+
+\bibitem[Loaiza]{OracleDataBase}
+\abntrefinfo{Loaiza}{LOAIZA}{}
+{LOAIZA, J. \textbf{O Que é um Banco de Dados Autônomo?}
+Dispon{\'\i}vel em:
+  \url{https://www.oracle.com/br/database/what-is-autonomous-database.html}.
+  Acesso em: 12 jan. 2019.}
+
+\bibitem[Newzoo 2019]{Newzoo2019}
+\abntrefinfo{Newzoo}{NEWZOO}{2019}
+{NEWZOO. \textbf{Most played core PC games}. 2019.
+Dispon{\'\i}vel em:
+  \url{https://newzoo.com/insights/rankings/top-20-core-pc-games}. Acesso em:
+  22 mai. 2019.}
+
+\bibitem[Pina 2018]{OracleBlog}
+\abntrefinfo{Pina}{PINA}{2018}
+{PINA, J. \textbf{Bancos de Dados Autônomos: a próxima geração de bancos de
+  dados inteligentes}. 2018.
+Dispon{\'\i}vel em:
+  \url{https://blogs.oracle.com/itbr/bancos-de-dados-autonomos-a-proxima-geracao-de-bancos-de-dados-inteligentes}.
+  Acesso em: 14 jan. 2019.}
+
+\bibitem[Redação 2019]{Sky}
+\abntrefinfo{Redação}{REDAçãO}{2019}
+{REDAçãO. \textbf{Com banco de dados autônomo, SKY inova, ganha agilidade e
+  reduz custos}. 2019.
+Dispon{\'\i}vel em:
+  \url{http://www.decisionreport.com.br/servicos/com-banco-de-dados-autonomo-sky-inova-ganha-agilidade-e-reduz-custos/\#.XhtvcuhKg2w}.
+  Acesso em: 12 jan. 2019.}
+
+\end{thebibliography}
