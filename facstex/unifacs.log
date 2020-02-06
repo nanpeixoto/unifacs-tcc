@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.14)  14 JAN 2020 14:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.14)  6 FEB 2020 19:31
 entering extended mode
 **./unifacs.tex
 (unifacs.tex
@@ -1239,11 +1239,11 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 122.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 122.
  ) 
 Here is how much of TeX's memory you used:
- 23094 strings out of 492484
- 405577 string characters out of 3120698
+ 23096 strings out of 492484
+ 405599 string characters out of 3120698
  803541 words of memory out of 3000000
  26959 multiletter control sequences out of 15000+200000
- 580809 words of font info for 97 fonts, out of 3000000 for 9000
+ 580900 words of font info for 98 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,13n,67p,763b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/c14382/AppData/Local/Programs/MiKTeX 2.92/fonts/enc/dvips/lm/lm-ec.
@@ -1256,7 +1256,7 @@ onts/type1/public/lm/lmri12.pfb><C:/Users/c14382/AppData/Local/Programs/MiKTeX
 2.92/fonts/type1/public/lm/lmss12.pfb><C:/Users/c14382/AppData/Local/Programs/M
 iKTeX 2.92/fonts/type1/public/lm/lmss17.pfb><C:/Users/c14382/AppData/Local/Prog
 rams/MiKTeX 2.92/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on unifacs.pdf (35 pages, 1040445 bytes).
+Output written on unifacs.pdf (35 pages, 1040025 bytes).
 PDF statistics:
  357 PDF objects out of 1000 (max. 8388607)
  83 named destinations out of 1000 (max. 500000)
