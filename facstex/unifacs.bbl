@@ -52,4 +52,28 @@ Dispon{\'\i}vel em:
   \url{http://www.decisionreport.com.br/servicos/com-banco-de-dados-autonomo-sky-inova-ganha-agilidade-e-reduz-custos/\#.XhtvcuhKg2w}.
   Acesso em: 12 jan. 2019.}
 
+\bibitem[Self-Driving 2018]{WPGestao}
+\abntrefinfo{Self-Driving}{SELF-DRIVING}{2018}
+{SELF-DRIVING, O. \textbf{Oracle Autonomous Database White Paper Series: The
+  Industry’s First Self-Driving Database}. 2018.
+Dispon{\'\i}vel em:
+  \url{http://www.oracle.com/us/products/database/autonomous-database-self-driving-5116034.pdf}.
+  Acesso em: 23 jan. 2020.}
+
+\bibitem[Self-Repairing 2018]{WPReparo}
+\abntrefinfo{Self-Repairing}{SELF-REPAIRING}{2018}
+{SELF-REPAIRING, O. \textbf{Oracle Autonomous Database White Paper Series: The
+  Industry’s First Self-Repairing Database}. 2018.
+Dispon{\'\i}vel em:
+  \url{http://www.oracle.com/us/products/database/autonomous-database-self-repairing-5116047.pdf}.
+  Acesso em: 23 jan. 2020.}
+
+\bibitem[Self-Securing 2018]{WPProtecao}
+\abntrefinfo{Self-Securing}{SELF-SECURING}{2018}
+{SELF-SECURING, O. \textbf{Oracle Autonomous Database White Paper Series: The
+  Industry’s First Self-Securing Database}. 2018.
+Dispon{\'\i}vel em:
+  \url{http://www.oracle.com/us/products/database/autonomous-database-self-securing-5116048.pdf}.
+  Acesso em: 23 jan. 2020.}
+
 \end{thebibliography}
