@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.14)  10 FEB 2020 15:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.14)  10 FEB 2020 19:01
 entering extended mode
 **./unifacs.tex
 (unifacs.tex
@@ -1126,39 +1126,40 @@ Package pdftex.def Info: fundamentacao/kings-landing.jpg  used on input line 24
 
 Package hyperref Warning: Suppressing empty link on input line 62.
 
-[19]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20]
+[19] [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22]
-[23] [24] [25] [26] [27]) [28]
+[23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+[25] [26] [27] [28] [29]) [30]
 \openout2 = `resultados/resultados.aux'.
 
- (resultados/resultados.tex) [29
+ (resultados/resultados.tex) [31
 
 
 
-] [30]
+] [32]
 \openout2 = `conclusao/conclusao.aux'.
 
 
-(conclusao/conclusao.tex) [31
+(conclusao/conclusao.tex) [33
 
 
 
-] (unifacs.bbl [32
+] (unifacs.bbl [34
 
 
 ]
 bibitemlist
-) 
+[35]) 
 AED: lastpage setting LastPage
-[33]
+[36]
 \tf@lof=\write5
 \openout5 = `unifacs.lof'.
 
@@ -1178,13 +1179,13 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 122.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 122.
  ) 
 Here is how much of TeX's memory you used:
- 23121 strings out of 492450
- 404642 string characters out of 3121406
- 805168 words of memory out of 3000000
- 26970 multiletter control sequences out of 15000+200000
- 581355 words of font info for 103 fonts, out of 3000000 for 9000
+ 23151 strings out of 492450
+ 405185 string characters out of 3121406
+ 805656 words of memory out of 3000000
+ 26990 multiletter control sequences out of 15000+200000
+ 581446 words of font info for 104 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,13n,67p,1159b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,13n,67p,4460b,583s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Eu/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<
 C:/Users/Eu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb>
 <C:/Users/Eu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb>
@@ -1195,9 +1196,9 @@ b><C:/Users/Eu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss12.p
 fb><C:/Users/Eu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss17.
 pfb><C:/Users/Eu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx
 10.pfb>
-Output written on unifacs.pdf (35 pages, 1047092 bytes).
+Output written on unifacs.pdf (38 pages, 1062037 bytes).
 PDF statistics:
- 394 PDF objects out of 1000 (max. 8388607)
- 104 named destinations out of 1000 (max. 500000)
+ 434 PDF objects out of 1000 (max. 8388607)
+ 112 named destinations out of 1000 (max. 500000)
  16035 words of extra memory for PDF output out of 17280 (max. 10000000)
 
