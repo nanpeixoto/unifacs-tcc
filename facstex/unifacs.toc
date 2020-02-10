@@ -15,13 +15,13 @@
 \contentsline {section}{\numberline {3.3}Papel atual de um DBA}{18}{section.3.3}%
 \contentsline {section}{\numberline {3.4}O que é DB autônomo}{19}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Como funciona um autônomo}{20}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Quais os recursos que é possível automatizar do BD}{22}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Qual o novo papel do DBA}{24}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Ferramentas que existem e o que fazem}{24}{section.3.8}%
+\contentsline {section}{\numberline {3.6}Quais os recursos que é possível automatizar do BD}{21}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Qual o novo papel do DBA}{23}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Ferramentas que existem e o que fazem}{23}{section.3.8}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Análise dos Resultados}}{31}{chapter.4}%
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Análise dos Resultados}}{29}{chapter.4}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Conclusão}}{33}{chapter.5}%
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Conclusão}}{31}{chapter.5}%
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{35}{section*.8}%
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{33}{section*.8}%
