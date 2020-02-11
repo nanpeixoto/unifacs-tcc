@@ -9,11 +9,11 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Fundamentação Teórica}}{11}{chapter.3}%
 \contentsline {section}{\numberline {3.1}O que é Inteligência Artifical}{11}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Processos Já automatizados com IA na área de TI}{12}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Processos Já automatizados com IA na área de TI}{11}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Papel atual de um DBA}{12}{section.3.3}%
-\contentsline {section}{\numberline {3.4}O que é DB autônomo}{13}{section.3.4}%
+\contentsline {section}{\numberline {3.4}O que é DB autônomo}{12}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Como funciona um autônomo}{14}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Qual o novo papel do DBA}{17}{section.3.6}%
+\contentsline {section}{\numberline {3.6}Qual o novo papel do DBA}{16}{section.3.6}%
 \contentsline {section}{\numberline {3.7}Ferramentas que existem e o que fazem}{17}{section.3.7}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Conclusão}}{23}{chapter.4}%
