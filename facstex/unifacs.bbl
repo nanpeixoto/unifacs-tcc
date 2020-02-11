@@ -5,6 +5,21 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[Baum 2018]{OracleBreakingFree}
+\abntrefinfo{Baum}{BAUM}{2018}
+{BAUM, D. \textbf{Breaking Free - Oracle Autonomous Database Cloud puts
+  database administration on autopilot.} 2018.
+Dispon{\'\i}vel em:
+  \url{https://blogs.oracle.com/oraclemagazine/breaking-free}. Acesso em: 25
+  dez. 2019.}
+
+\bibitem[Brasil 2016]{Trapalhada}
+\abntrefinfo{Brasil}{BRASIL}{2016}
+{BRASIL, B. \textbf{Cinco trapalhadas empresariais que renderam prejuízos de
+  milhões de dólares}. 2016.
+Dispon{\'\i}vel em: \url{https://www.bbc.com/portuguese/geral-37698750}. Acesso
+  em: 02 jan. 2020.}
+
 \bibitem[Higa 2018]{TecnoBlog}
 \abntrefinfo{Higa}{HIGA}{2018}
 {HIGA, P. \textbf{Bancos de Dados autônomo: o que é e como funciona}. 2018.
@@ -36,6 +51,20 @@ Dispon{\'\i}vel em:
   \url{https://newzoo.com/insights/rankings/top-20-core-pc-games}. Acesso em:
   22 mai. 2019.}
 
+\bibitem[Oracle 2020]{OracleDefesa}
+\abntrefinfo{Oracle}{ORACLE}{2020a}
+{ORACLE. \textbf{Defesa Abrangente Aprofundada}. 2020.
+Dispon{\'\i}vel em:
+  \url{https://www.oracle.com/br/database/technologies/security.html}. Acesso
+  em: 02 jan. 2020.}
+
+\bibitem[Oracle 2020]{OracleDBAutonomo}
+\abntrefinfo{Oracle}{ORACLE}{2020b}
+{ORACLE. \textbf{O Que é um Banco de Dados Autônomo?} 2020.
+Dispon{\'\i}vel em:
+  \url{https://www.oracle.com/br/database/what-is-autonomous-database.html}.
+  Acesso em: 02 jan. 2020.}
+
 \bibitem[Pina 2018]{OracleBlog}
 \abntrefinfo{Pina}{PINA}{2018}
 {PINA, J. \textbf{Bancos de Dados Autônomos: a próxima geração de bancos de
@@ -43,6 +72,14 @@ Dispon{\'\i}vel em:
 Dispon{\'\i}vel em:
   \url{https://blogs.oracle.com/itbr/bancos-de-dados-autonomos-a-proxima-geracao-de-bancos-de-dados-inteligentes}.
   Acesso em: 14 jan. 2019.}
+
+\bibitem[Ravikumar 2015]{OracleExadata}
+\abntrefinfo{Ravikumar}{RAVIKUMAR}{2015}
+{RAVIKUMAR, A.~Z. e Y.~V. \textbf{Oracle Exadata Database Machine: Exadata
+  Hybrid Columnar Compression}. 2015.
+Dispon{\'\i}vel em:
+  \url{https://www.oracle.com/technetwork/pt/articles/oem/oracle-hybrid-columnar-compression-2436203-ptb.html}.
+  Acesso em: 02 jan. 2020.}
 
 \bibitem[Redação 2019]{Sky}
 \abntrefinfo{Redação}{REDAçãO}{2019}
