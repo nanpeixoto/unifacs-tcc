@@ -2,26 +2,21 @@
 \babel@toc {brazil}{}
 \babel@toc {brazil}{}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdução}}{11}{chapter.1}%
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdução}}{7}{chapter.1}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Metodologia}}{13}{chapter.2}%
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Metodologia}}{9}{chapter.2}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Fundamentação Teórica}}{15}{chapter.3}%
-\contentsline {section}{\numberline {3.1}O que é Inteligência Artifical}{15}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Processos Já automatizados com IA na área de TI}{16}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Papel atual de um DBA}{18}{section.3.3}%
-\contentsline {section}{\numberline {3.4}O que é DB autônomo}{19}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Como funciona um autônomo}{20}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Quais os recursos que é possível automatizar do BD}{23}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Qual o novo papel do DBA}{25}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Ferramentas que existem e o que fazem}{25}{section.3.8}%
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Fundamentação Teórica}}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}O que é Inteligência Artifical}{11}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Processos Já automatizados com IA na área de TI}{12}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Papel atual de um DBA}{12}{section.3.3}%
+\contentsline {section}{\numberline {3.4}O que é DB autônomo}{13}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Como funciona um autônomo}{14}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Qual o novo papel do DBA}{17}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Ferramentas que existem e o que fazem}{17}{section.3.7}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Análise dos Resultados}}{31}{chapter.4}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Conclusão}}{33}{chapter.5}%
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Conclusão}}{23}{chapter.4}%
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{35}{section*.8}%
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{25}{section*.6}%
