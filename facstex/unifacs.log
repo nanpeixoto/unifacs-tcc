@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.26)  26 JAN 2021 21:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.26)  26 JAN 2021 22:21
 entering extended mode
 **./unifacs.tex
 (unifacs.tex
@@ -941,9 +941,6 @@ l.70
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-
-Package hyperref Warning: Suppressing empty link on input line 41.
-
 [12] [13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -991,9 +988,9 @@ s/Fernanda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/U
 sers/Fernanda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C
 :/Users/Fernanda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.p
 fb>
-Output written on unifacs.pdf (28 pages, 283378 bytes).
+Output written on unifacs.pdf (28 pages, 283558 bytes).
 PDF statistics:
- 339 PDF objects out of 1000 (max. 8388607)
+ 340 PDF objects out of 1000 (max. 8388607)
  91 named destinations out of 1000 (max. 500000)
  24702 words of extra memory for PDF output out of 24883 (max. 10000000)
 
