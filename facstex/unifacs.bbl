@@ -20,6 +20,14 @@ Dispon{\'\i}vel em:
 Dispon{\'\i}vel em: \url{https://www.bbc.com/portuguese/geral-37698750}. Acesso
   em: 02 jan. 2020.}
 
+\bibitem[DATABASE 2018]{OracleAut}
+\abntrefinfo{DATABASE}{DATABASE}{2018}
+{DATABASE, O.~A. \textbf{Oracle Autonomous Database White Paper Series: The
+  Industry’s First Self-Repairing Database}. 2018.
+Dispon{\'\i}vel em:
+  \url{http://www.oracle.com/us/products/database/autonomous-database-self-repairing-5116047.pdf}.
+  Acesso em: 10 jan. 2020.}
+
 \bibitem[Higa 2018]{TecnoBlog}
 \abntrefinfo{Higa}{HIGA}{2018}
 {HIGA, P. \textbf{Bancos de Dados autônomo: o que é e como funciona}. 2018.
