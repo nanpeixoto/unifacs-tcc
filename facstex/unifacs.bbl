@@ -5,14 +5,6 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
-\bibitem[Auricchio 2018]{Auricchio}
-\abntrefinfo{Auricchio}{AURICCHIO}{2018}
-{AURICCHIO, F. \textbf{Único Banco de Dados Autônomo do Mundo Oferece
-  Capacidades Exclusivas}. 2018.
-Dispon{\'\i}vel em:
-  \url{https://www.oracle.com/br/corporate/pressrelease/oow18-oracle-autonomous-database-2018-10-22.html}.
-  Acesso em: 17 jan. 2021.}
-
 \bibitem[Baum 2018]{OracleBreakingFree}
 \abntrefinfo{Baum}{BAUM}{2018}
 {BAUM, D. \textbf{Breaking Free - Oracle Autonomous Database Cloud puts
@@ -27,12 +19,6 @@ Dispon{\'\i}vel em:
   milhões de dólares}. 2016.
 Dispon{\'\i}vel em: \url{https://www.bbc.com/portuguese/geral-37698750}. Acesso
   em: 02 jan. 2020.}
-
-\bibitem[Brasil 2021]{OCI}
-\abntrefinfo{Brasil}{BRASIL}{2021}
-{BRASIL, O. \textbf{Oracle Cloud Infrastructure}. 2021.
-Dispon{\'\i}vel em: \url{https://www.oracle.com/br/cloud/}. Acesso em: 17 jan.
-  2021.}
 
 \bibitem[Higa 2018]{TecnoBlog}
 \abntrefinfo{Higa}{HIGA}{2018}

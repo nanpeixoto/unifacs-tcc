@@ -15,9 +15,6 @@
 \contentsline {section}{\numberline {3.5}Como funciona um autônomo}{14}{section.3.5}%
 \contentsline {section}{\numberline {3.6}Qual o novo papel do DBA}{16}{section.3.6}%
 \contentsline {section}{\numberline {3.7}Ferramentas que existem e o que fazem}{17}{section.3.7}%
-\contentsline {subsection}{\numberline {3.7.1}Auto-Gerenciamento}{17}{subsection.3.7.1}%
-\contentsline {subsection}{\numberline {3.7.2}Auto-Proteção}{19}{subsection.3.7.2}%
-\contentsline {subsection}{\numberline {3.7.3}Auto-Reparo}{20}{subsection.3.7.3}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Conclusão}}{23}{chapter.4}%
 \vspace {\cftbeforechapterskip }

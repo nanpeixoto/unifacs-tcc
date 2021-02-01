@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.17)  17 JAN 2021 13:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.14)  11 FEB 2020 21:52
 entering extended mode
 **./fundamentacao.tex
 (fundamentacao.tex
-LaTeX2e <2020-10-01> patch level 2
-L3 programming layer <2020-12-07> xparse <2020-03-03>
+LaTeX2e <2019-10-01> patch level 3
 ! Undefined control sequence.
 l.1 \chapter
             {Fundamentação Teórica}
@@ -5925,7 +5924,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[1{C:/Users/Otaviano/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+[1{C:/Users/c14382/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -18087,7 +18086,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no ; in font nullfont!
+Missing character: There is no . in font nullfont!
 
 Overfull \hbox (4.44444pt too wide) in paragraph at lines 106--107
 \/cmr/m/n/10 e
@@ -28337,11 +28336,11 @@ Overfull \hbox (9.44446pt too wide) in paragraph at lines 158--160
 
  
 Here is how much of TeX's memory you used:
- 45 strings out of 479697
- 774 string characters out of 2877000
- 285792 words of memory out of 3000000
- 17235 multiletter control sequences out of 15000+200000
- 403738 words of font info for 28 fonts, out of 3000000 for 9000
+ 34 strings out of 492484
+ 512 string characters out of 3120698
+ 78494 words of memory out of 3000000
+ 4475 multiletter control sequences out of 15000+200000
+ 3948 words of font info for 15 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,4n,42p,4446b,104s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 17i,4n,22p,4434b,97s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
