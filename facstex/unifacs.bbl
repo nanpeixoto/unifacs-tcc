@@ -28,11 +28,21 @@ Dispon{\'\i}vel em:
 Dispon{\'\i}vel em: \url{https://www.bbc.com/portuguese/geral-37698750}. Acesso
   em: 02 jan. 2020.}
 
+<<<<<<< HEAD
 \bibitem[Brasil 2021]{OCI}
 \abntrefinfo{Brasil}{BRASIL}{2021}
 {BRASIL, O. \textbf{Oracle Cloud Infrastructure}. 2021.
 Dispon{\'\i}vel em: \url{https://www.oracle.com/br/cloud/}. Acesso em: 17 jan.
   2021.}
+=======
+\bibitem[DATABASE 2018]{OracleAut}
+\abntrefinfo{DATABASE}{DATABASE}{2018}
+{DATABASE, O.~A. \textbf{Oracle Autonomous Database White Paper Series: The
+  Industry’s First Self-Repairing Database}. 2018.
+Dispon{\'\i}vel em:
+  \url{http://www.oracle.com/us/products/database/autonomous-database-self-repairing-5116047.pdf}.
+  Acesso em: 10 jan. 2020.}
+>>>>>>> dc944191109b64bf8bd209918a06d9c77aa11d4e
 
 \bibitem[Higa 2018]{TecnoBlog}
 \abntrefinfo{Higa}{HIGA}{2018}
