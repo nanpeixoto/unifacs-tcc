@@ -13,10 +13,10 @@
 \contentsline {section}{\numberline {3.3}Papel atual de um DBA}{12}{section.3.3}%
 \contentsline {section}{\numberline {3.4}O que é DB autônomo}{12}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Como funciona um autônomo}{13}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Qual o novo papel do DBA}{16}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Ferramentas que existem e o que fazem}{16}{section.3.7}%
+\contentsline {section}{\numberline {3.6}Qual o novo papel do DBA}{17}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Ferramentas que existem e o que fazem}{18}{section.3.7}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Conclusão}}{23}{chapter.4}%
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Conclusão}}{25}{chapter.4}%
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{25}{section*.6}%
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{27}{section*.6}%

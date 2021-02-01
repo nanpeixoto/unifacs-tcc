@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.26)  26 JAN 2021 21:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.14)  31 JAN 2021 08:53
 entering extended mode
 **./fundamentacao.tex
 (fundamentacao.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03>
+LaTeX2e <2019-10-01> patch level 3
 ! Undefined control sequence.
 l.1 \chapter
             {Fundamentação Teórica}
@@ -5941,7 +5940,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[1{C:/Users/Fernanda/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+[1{C:/Users/Eu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
 ! LaTeX Error: Environment citacao undefined.
 
@@ -7125,12 +7124,59 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
 Missing character: There is no [ in font nullfont!
 \citation{OracleDBAutonomo}
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.72 ...didas em 3 pilares \cite{OracleDBAutonomo}
+l.72 ... próxmos topicos. \cite{OracleDBAutonomo}
                                                   :
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7230,21 +7276,39 @@ Overfull \hbox (9.44446pt too wide) in paragraph at lines 72--73
  []
 
 
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 72--73
+\/cmr/m/n/10 o
+ []
+
+
 Overfull \hbox (5.43053pt too wide) in paragraph at lines 72--73
 [] 
  []
 
 
-! LaTeX Error: Missing \begin{document}.
+! LaTeX Error: Environment alineas undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.75 	A
-       utuexecução: Tendo seu fundamento principal a machine learning, ond...
+l.74 \begin{alineas}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-You're in trouble here.  Try typing  <return>  to proceed.
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 	\item A
+             utuexecução: Tendo seu fundamento principal a machine learnin...
+
+Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no A in font nullfont!
@@ -7849,7 +7913,83 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 ~o
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 ^o
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 ^o
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 o
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+\/cmr/m/n/10 a
+ []
+
+Missing character: There is no E in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -7891,6 +8031,13 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no c in font nullfont!
@@ -7946,7 +8093,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
-Missing character: There is no T in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -8014,6 +8161,27 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no v in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no m in font nullfont!
@@ -8075,13 +8243,14 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
 Missing character: There is no [ in font nullfont!
 \citation{OracleExadata}
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.75 ...sem perder desempenho \cite{OracleExadata}
-                                                  , também é possível de ...
+l.77 ...em perder desempenho. \cite{OracleExadata}
+                                                  .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -8089,22 +8258,118 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `OracleExadata' on page  undefined on input line 75.
+LaTeX Warning: Citation `OracleExadata' on page  undefined on input line 77.
 
 Missing character: There is no ] in font nullfont!
-Missing character: There is no , in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 77--78
+[]
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 77--78
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 77--78
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 77--78
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 77--78
+\/cmr/m/n/10 c~o
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 77--78
+\/cmr/m/n/10 c
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 77--78
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 77--78
+[] 
+ []
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no u in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no v in font nullfont!
+Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no f in font nullfont!
@@ -8126,7 +8391,6 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -8136,7 +8400,6 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no c in font nullfont!
@@ -8301,16 +8564,17 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
 Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -8343,7 +8607,6 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -8498,7 +8761,7 @@ Missing character: There is no p in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no : in font nullfont!
-Missing character: There is no u in font nullfont!
+Missing character: There is no U in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -9094,7 +9357,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.75 ...nenhuma máquina \cite{OracleBreakingFree}
+l.79 ...nenhuma máquina \cite{OracleBreakingFree}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9104,256 +9367,161 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `OracleBreakingFree' on page  undefined on input line 7
-5.
+9.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (29.44446pt too wide) in paragraph at lines 75--76
-[]\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 ~o
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 ^o
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 ^o
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 o
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 c~o
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 c
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 75--76
+Overfull \hbox (20.0pt too wide) in paragraph at lines 79--80
 []
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 75--76
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 e
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
+\/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 75--76
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 75--76
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
+\/cmr/m/n/10 o
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 75--76
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 75--76
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 75--76
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 75--76
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 79--80
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 75--76
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 '
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 ^o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 75--76
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 75--76
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 75--76
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 75--76
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--76
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--80
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 75--76
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 79--80
 [] 
  []
 
 
-! LaTeX Error: Missing \begin{document}.
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.78 	A
-       utoproteção: podemos observar que nos últimos anos os ataques cibe...
+l.82 	\item A
+             utoproteção: Podemos observar que nos últimos anos os ataque...
 
-You're in trouble here.  Try typing  <return>  to proceed.
+Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no A in font nullfont!
@@ -9367,7 +9535,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no : in font nullfont!
-Missing character: There is no p in font nullfont!
+Missing character: There is no P in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -10182,6 +10350,141 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 u
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 c~o
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 c
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 c
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 ^o
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 c
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 ^e
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 o
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 c~o
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 c
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 82--83
+\/cmr/m/n/10 o
+ []
+
 Missing character: There is no O in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -11094,8 +11397,143 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no i in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 84--85
+[]
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 ~a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 ~a
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 ^o
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 o
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 ~a
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 ~a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 84--85
+\/cmr/m/n/10 e
+ []
+
+Missing character: There is no I in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no g in font nullfont!
@@ -11459,8 +11897,78 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no p in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 86--87
+[]
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 86--87
+\/cmr/m/n/10 c~o
+ []
+
+
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 86--87
+\/cmr/m/n/10 u
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 86--87
+\/cmr/m/n/10 ~a
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 86--87
+\/cmr/m/n/10 c~o
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 86--87
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 86--87
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 86--87
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 86--87
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 86--87
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 86--87
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 86--87
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 86--87
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 86--87
+\/cmr/m/n/10 c~a
+ []
+
+Missing character: There is no P in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -12189,12 +12697,97 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 88--89
+[]
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 c
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 ~o
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 o
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 ~a
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 c~a
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 88--89
+\/cmr/m/n/10 a
+ []
+
 Missing character: There is no p in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -12442,9 +13035,78 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (26.80557pt too wide) in paragraph at lines 90--91
+[][]\/cmr/m/n/10 E
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 90--91
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 90--91
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 90--91
+\/cmr/m/n/10 c~o
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 90--91
+\/cmr/m/n/10 c~o
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 90--91
+\/cmr/m/n/10 c
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 90--91
+\/cmr/m/n/10 c
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 90--91
+\/cmr/m/n/10 c~o
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 90--91
+\/cmr/m/n/10 c
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 90--91
+\/cmr/m/n/10 
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 90--91
+\/cmr/m/n/10 c~o
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 90--91
+\/cmr/m/n/10 e
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 90--91
+\/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 90--91
+\/cmr/m/n/10 e
+ []
+
+Missing character: There is no T in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -12772,7 +13434,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.78 ...para atender a demanda \cite{OracleDefesa}
+l.92 ...para atender a demanda \cite{OracleDefesa}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12781,561 +13443,81 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `OracleDefesa' on page  undefined on input line 78.
+LaTeX Warning: Citation `OracleDefesa' on page  undefined on input line 92.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (29.44446pt too wide) in paragraph at lines 78--79
-[]\/cmr/m/n/10 c~a
+Overfull \hbox (20.0pt too wide) in paragraph at lines 92--93
+[]
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 u
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~o
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 ^o
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 ^e
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 o
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~o
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 o
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 92--93
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 ~a
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 ^o
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--79
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 92--93
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 o
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 ~a
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 ~a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~o
- []
-
-
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 u
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 ~a
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~o
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 92--93
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 92--93
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 ~o
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 o
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 ~a
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~a
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~o
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~o
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 92--93
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~o
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c~o
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 92--93
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 ~a
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 92--93
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 a
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 92--93
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 c
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 78--79
-\/cmr/m/n/10 e
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 92--93
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 92--93
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 78--79
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 92--93
 [] 
  []
 
 
-! LaTeX Error: Missing \begin{document}.
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.81 A
-      utorreparação: A cada dia que passa aumenta a necessidade das empres...
+l.95 \item A
+            utorreparação: A cada dia que passa aumenta a necessidade das ...
 
-You're in trouble here.  Try typing  <return>  to proceed.
+Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no A in font nullfont!
@@ -14286,7 +14468,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.81 ...7,7 milhões de dólares \cite{Trapalhada}
+l.95 ...7,7 milhões de dólares \cite{Trapalhada}
                                                   . Com o banco de dados aut...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14295,7 +14477,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `Trapalhada' on page  undefined on input line 81.
+LaTeX Warning: Citation `Trapalhada' on page  undefined on input line 95.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -14339,167 +14521,180 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 
-Overfull \hbox (29.44446pt too wide) in paragraph at lines 81--82
-[]\/cmr/m/n/10 c~a
+! LaTeX Error: \begin{document} ended by \end{alineas}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \end{alineas}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 95--97
+\/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 81--82
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 81--82
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 ~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 81--82
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 81--82
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 81--82
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 81--82
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 u
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 81--82
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 u
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 81--82
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 81--82
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 ~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 81--82
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 81--82
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 81--82
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 ~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 95--97
 []
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 ^o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 81--82
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 81--82
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 95--97
 \/cmr/m/n/10 
  []
 
 ! Undefined control sequence.
-l.84 \section
+l.98 \section
              {Qual o novo papel do DBA}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14514,7 +14709,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.84 \section{Q
+l.98 \section{Q
                ual o novo papel do DBA}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -14539,7 +14734,7 @@ Missing character: There is no D in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no A in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 84--85
+Overfull \hbox (20.0pt too wide) in paragraph at lines 98--99
 []
  []
 
@@ -14550,8 +14745,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.86 O
-       advento do banco de dados autônomo que minimiza a intervenção huma...
+l.100 O
+        advento do banco de dados autônomo que minimiza a intervenção hum...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -15067,128 +15262,128 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 86--87
+Overfull \hbox (20.0pt too wide) in paragraph at lines 100--101
 []
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 86--87
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 ^o
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 86--87
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 86--87
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 86--87
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 86--87
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 86--87
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 86--87
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 86--87
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 86--87
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 86--87
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 86--87
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 86--87
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 86--87
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 86--87
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 86--87
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 86--87
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 86--87
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 86--87
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 86--87
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 86--87
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 86--87
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 86--87
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 86--87
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 100--101
 \/cmr/m/n/10 c~o 
  []
 
 ! Undefined control sequence.
-l.89 \section
-             {Ferramentas que existem e o que fazem}
+l.103 \section
+              {Ferramentas que existem e o que fazem}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -15202,8 +15397,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.89 \section{F
-               erramentas que existem e o que fazem}
+l.103 \section{F
+                erramentas que existem e o que fazem}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -15239,7 +15434,7 @@ Missing character: There is no z in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no m in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 89--90
+Overfull \hbox (20.0pt too wide) in paragraph at lines 103--104
 []
  []
 
@@ -15250,8 +15445,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.91 P
-      resente no mercado a mais de 40 anos, a Oracle Corporation se consolid...
+l.105 P
+       resente no mercado a mais de 40 anos, a Oracle Corporation se consoli...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -15637,47 +15832,47 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 91--92
+Overfull \hbox (20.0pt too wide) in paragraph at lines 105--106
 []
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 91--92
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 105--106
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 91--92
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 105--106
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 91--92
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 105--106
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 91--92
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 105--106
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 91--92
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 105--106
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 91--92
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 105--106
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 91--92
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 105--106
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 91--92
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 105--106
 \/cmr/m/n/10 ^o 
  []
 
@@ -15688,8 +15883,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.93 C
-      onsiderado o único banco de dados autônomo existente o Oracle Autono...
+l.107 C
+       onsiderado o único banco de dados autônomo existente o Oracle Auton...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -16069,57 +16264,57 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 93--94
+Overfull \hbox (20.0pt too wide) in paragraph at lines 107--108
 []
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 93--94
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 107--108
 \/cmr/m/n/10 u
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 93--94
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 107--108
 \/cmr/m/n/10 ^o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 93--94
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 107--108
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 93--94
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 107--108
 \/cmr/m/n/10 ^e
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 93--94
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 107--108
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 93--94
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 107--108
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 93--94
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 107--108
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 93--94
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 107--108
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 93--94
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 107--108
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 93--94
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 107--108
 \/cmr/m/n/10 a
  []
 
@@ -16130,8 +16325,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.95 O
-       Oracle Autonomous Database foi desenvolvido para entregar diversos be...
+l.109 O
+        Oracle Autonomous Database foi desenvolvido para entregar diversos b...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -16382,52 +16577,52 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 95--96
+Overfull \hbox (20.0pt too wide) in paragraph at lines 109--110
 []
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 95--96
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 109--110
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 95--96
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 109--110
 \/cmr/m/n/10 ^e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--96
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 109--110
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--96
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 109--110
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 95--96
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 109--110
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 95--96
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 109--110
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 95--96
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 109--110
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 95--96
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 109--110
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 95--96
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 109--110
 \/cmr/m/n/10 c~a
  []
 
@@ -16438,8 +16633,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.98 A
-      uto-Gerenciamento
+l.112 A
+       uto-Gerenciamento
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -16462,7 +16657,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 98--99
+Overfull \hbox (20.0pt too wide) in paragraph at lines 112--113
 [] 
  []
 
@@ -16473,7 +16668,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.101 O
+l.115 O
        s recursos de Auto-Gerenciamento do Oracle Autonomous Database automa...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -16828,7 +17023,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.101 .... De acordo com a Oracle, \cite{WPGestao}
+l.115 .... De acordo com a Oracle, \cite{WPGestao}
                                                   , os recursos de Auto-Gere...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -16837,7 +17032,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `WPGestao' on page  undefined on input line 101.
+LaTeX Warning: Citation `WPGestao' on page  undefined on input line 115.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no , in font nullfont!
@@ -16880,72 +17075,72 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 101--102
+Overfull \hbox (20.0pt too wide) in paragraph at lines 115--116
 []
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 101--102
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 101--102
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 101--102
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 101--102
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 101--102
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 101--102
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 101--102
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 ~o
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 101--102
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 101--102
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 101--102
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 101--102
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 101--102
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 101--102
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 115--116
 []
  []
 
@@ -16956,7 +17151,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.103 \begin{alineas}
+l.117 \begin{alineas}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -16969,7 +17164,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.104 \item A
+l.118 \item A
              provisionamento: Quando um novo banco de dados é solicitado, o...
 
 Try typing  <return>  to proceed.
@@ -17475,62 +17670,62 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 104--105
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 118--119
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 104--105
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 118--119
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 104--105
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 118--119
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 104--105
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 118--119
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 104--105
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 118--119
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 104--105
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 118--119
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 104--105
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 118--119
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 104--105
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 118--119
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 104--105
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 118--119
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 104--105
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 118--119
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 104--105
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 118--119
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 104--105
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 118--119
 \/cmr/m/n/10 ^o
  []
 
@@ -17541,7 +17736,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.106 \item S
+l.120 \item S
              egurança: Uma vez provisionado, o banco de dados precisa ser p...
 
 Try typing  <return>  to proceed.
@@ -17940,42 +18135,42 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 106--107
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 120--121
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 106--107
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 120--121
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 106--107
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 120--121
 \/cmr/m/n/10 ~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 106--107
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 120--121
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 106--107
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 120--121
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 106--107
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 120--121
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 106--107
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 120--121
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 106--107
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 120--121
 \/cmr/m/n/10 ~a
  []
 
@@ -17986,7 +18181,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.108 \item G
+l.122 \item G
              erenciamento: Muito tempo de TI é gasto em manutenção em det...
 
 Try typing  <return>  to proceed.
@@ -18487,87 +18682,87 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 108--109
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 108--109
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 108--109
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 108--109
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 108--109
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 108--109
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 108--109
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 108--109
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 108--109
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 108--109
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 108--109
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 108--109
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 108--109
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 108--109
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 108--109
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 108--109
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 108--109
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 122--123
 \/cmr/m/n/10 c~a 
  []
 
@@ -18578,7 +18773,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.110 \item P
+l.124 \item P
              roteção: O Oracle Autonomous Database faz seu backup na Oracl...
 
 Try typing  <return>  to proceed.
@@ -18940,42 +19135,42 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 110--111
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 124--125
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 110--111
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 124--125
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 110--111
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 124--125
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 110--111
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 124--125
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 110--111
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 124--125
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 110--111
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 124--125
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 110--111
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 124--125
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 110--111
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 124--125
 \/cmr/m/n/10 c~a
  []
 
@@ -18986,7 +19181,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.112 \item E
+l.126 \item E
              scalabilidade: A elasticidade é um dos principais motivos pelo...
 
 Try typing  <return>  to proceed.
@@ -19505,47 +19700,47 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 112--113
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 126--127
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 112--113
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 126--127
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 112--113
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 126--127
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 112--113
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 126--127
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 112--113
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 126--127
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 112--113
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 126--127
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 112--113
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 126--127
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 112--113
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 126--127
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 112--113
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 126--127
 \/cmr/m/n/10 c~a
  []
 
@@ -19556,7 +19751,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.114 \item O
+l.128 \item O
              timização: Essa é talvez a mais substantiva área do Auto-Ge...
 
 Try typing  <return>  to proceed.
@@ -20193,99 +20388,99 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.115 \end{alineas}
+l.129 \end{alineas}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 114--116
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 114--116
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 114--116
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 114--116
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 114--116
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 114--116
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 114--116
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 114--116
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 114--116
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 ^o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 114--116
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 114--116
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 114--116
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 ^o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 114--116
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 114--116
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 114--116
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 114--116
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 114--116
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 114--116
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 128--130
 \/cmr/m/n/10 c~o
  []
 
@@ -20296,7 +20491,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.118 A
+l.132 A
        uto-Proteção
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -20313,7 +20508,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no o in font nullfont!
 
-Overfull \hbox (29.44446pt too wide) in paragraph at lines 118--119
+Overfull \hbox (29.44446pt too wide) in paragraph at lines 132--133
 []\/cmr/m/n/10 c~a 
  []
 
@@ -20324,7 +20519,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.121 O
+l.135 O
        s recursos de Auto-Proteção fornecem uma postura de segurança de l...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -20548,7 +20743,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.121 ...ade. Conforme a Oracle, \cite{WPProtecao}
+l.135 ...ade. Conforme a Oracle, \cite{WPProtecao}
                                                   , os recursos de Auto-Prot...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -20557,7 +20752,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `WPProtecao' on page  undefined on input line 121.
+LaTeX Warning: Citation `WPProtecao' on page  undefined on input line 135.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no , in font nullfont!
@@ -20593,47 +20788,47 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 121--122
+Overfull \hbox (20.0pt too wide) in paragraph at lines 135--136
 []
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 121--122
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 135--136
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 121--122
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 135--136
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 121--122
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 135--136
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 121--122
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 135--136
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 121--122
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 135--136
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 121--122
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 135--136
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 121--122
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 135--136
 []
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 121--122
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 135--136
 \/cmr/m/n/10 c~a
  []
 
@@ -20644,7 +20839,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.123 \begin{alineas}
+l.137 \begin{alineas}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -20657,7 +20852,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.124 \item C
+l.138 \item C
              riptografia para dados em movimento:  Cada serviço do Oracle A...
 
 Try typing  <return>  to proceed.
@@ -20983,42 +21178,42 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 124--125
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 138--139
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 124--125
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 138--139
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 124--125
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 138--139
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 124--125
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 138--139
 \/cmr/m/n/10 ^a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 124--125
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 138--139
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 124--125
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 138--139
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 124--125
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 138--139
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 124--125
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 138--139
 \/cmr/m/n/10 c
  []
 
@@ -21029,7 +21224,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.126 \item C
+l.140 \item C
              riptografia para dados em repouso: Os dados no Oracle Autonomou...
 
 Try typing  <return>  to proceed.
@@ -21387,32 +21582,32 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 126--127
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 140--141
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 126--127
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 140--141
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 126--127
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 140--141
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 126--127
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 140--141
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 126--127
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 140--141
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 126--127
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 140--141
 \/cmr/m/n/10 
  []
 
@@ -21423,7 +21618,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.128 \item S
+l.142 \item S
              eparação automatizada de tarefas: O Oracle Autonomous elimina...
 
 Try typing  <return>  to proceed.
@@ -22107,47 +22302,47 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 128--129
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 142--143
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 128--129
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 142--143
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 128--129
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 142--143
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 128--129
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 142--143
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 128--129
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 142--143
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 128--129
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 142--143
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 128--129
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 142--143
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 128--129
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 142--143
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 128--129
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 142--143
 \/cmr/m/n/10 c
  []
 
@@ -22158,7 +22353,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.130 \item A
+l.144 \item A
              uditoria de banco de dados configurada por padrão, personaliz�...
 
 Try typing  <return>  to proceed.
@@ -22547,42 +22742,42 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 130--131
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 144--145
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 130--131
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 144--145
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 130--131
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 144--145
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 130--131
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 144--145
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 130--131
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 144--145
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 130--131
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 144--145
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 130--131
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 144--145
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 130--131
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 144--145
 \/cmr/m/n/10 e
  []
 
@@ -22593,7 +22788,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.132 \item R
+l.146 \item R
              edução das oportunidades de erro humano: O erro humano desemp...
 
 Try typing  <return>  to proceed.
@@ -22998,42 +23193,42 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 132--133
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 146--147
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 132--133
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 146--147
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 132--133
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 146--147
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 132--133
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 146--147
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 132--133
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 146--147
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 132--133
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 146--147
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 132--133
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 146--147
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 132--133
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 146--147
 \/cmr/m/n/10 ~a
  []
 
@@ -23044,7 +23239,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.134 \item P
+l.148 \item P
              atches, atualizações e manutenção automatizados: Uma das va...
 
 Try typing  <return>  to proceed.
@@ -23456,44 +23651,44 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.135 \end{alineas}
+l.149 \end{alineas}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 134--136
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 148--150
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 134--136
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 148--150
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 134--136
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 148--150
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 134--136
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 148--150
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 134--136
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 148--150
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 134--136
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 148--150
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 134--136
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 148--150
 \/cmr/m/n/10 c
  []
 
@@ -23504,7 +23699,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.138 A
+l.152 A
        uto-Reparo
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -23521,7 +23716,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no o in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 138--139
+Overfull \hbox (20.0pt too wide) in paragraph at lines 152--153
 [] 
  []
 
@@ -23532,7 +23727,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.141 I
+l.155 I
        ntegrada ao Oracle Autonomous Database é a MAA (Oracle Maximum Avail...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -23906,62 +24101,62 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 141--142
+Overfull \hbox (20.0pt too wide) in paragraph at lines 155--156
 []
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 141--142
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 155--156
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 141--142
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 155--156
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 141--142
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 155--156
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 141--142
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 155--156
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 141--142
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 155--156
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 141--142
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 155--156
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 141--142
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 155--156
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 141--142
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 155--156
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 141--142
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 155--156
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 141--142
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 155--156
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 141--142
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 155--156
 \/cmr/m/n/10 c~a
  []
 
@@ -23972,7 +24167,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.143 T
+l.157 T
        ecnologias autônomas diferenciadas são incluídas em cada nível su...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -24224,7 +24419,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.143 ...dados. Conforme a Oracle, \cite{WPReparo}
+l.157 ...dados. Conforme a Oracle, \cite{WPReparo}
                                                   , as tecnologias e recurso...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -24233,7 +24428,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `WPReparo' on page  undefined on input line 143.
+LaTeX Warning: Citation `WPReparo' on page  undefined on input line 157.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no , in font nullfont!
@@ -24403,87 +24598,87 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 143--144
+Overfull \hbox (20.0pt too wide) in paragraph at lines 157--158
 []
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 143--144
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 ^o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 143--144
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 143--144
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 143--144
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 143--144
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 u
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 143--144
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 143--144
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 143--144
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 143--144
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 143--144
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 157--158
 []
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 143--144
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 143--144
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 143--144
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 143--144
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 143--144
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 143--144
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 157--158
 \/cmr/m/n/10 e
  []
 
@@ -24494,7 +24689,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 \begin{alineas}
+l.159 \begin{alineas}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -24507,7 +24702,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.146 \item B
+l.160 \item B
              ackup automatizado: O Oracle Autonomous Database executa backup...
 
 Try typing  <return>  to proceed.
@@ -24807,47 +25002,47 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 146--147
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 160--161
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 146--147
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 160--161
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 146--147
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 160--161
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 146--147
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 160--161
 \/cmr/m/n/10 ^a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 146--147
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 160--161
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 146--147
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 160--161
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 146--147
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 160--161
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 146--147
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 160--161
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 146--147
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 160--161
 \/cmr/m/n/10 ~a
  []
 
@@ -24858,7 +25053,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.148 \item D
+l.162 \item D
              isponibilidade automatizada do servidor: O Oracle Real Applicat...
 
 Try typing  <return>  to proceed.
@@ -25481,97 +25676,97 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 148--149
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 u
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 148--149
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 ^a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 ~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 148--149
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 148--149
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 148--149
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 u
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 148--149
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 162--163
 \/cmr/m/n/10 
  []
 
@@ -25582,7 +25777,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.150 \item R
+l.164 \item R
              ecuperação automatizada de desastres: Na inicialização, o O...
 
 Try typing  <return>  to proceed.
@@ -26425,157 +26620,157 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 150--151
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 150--151
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 150--151
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 150--151
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 150--151
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 150--151
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 150--151
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 150--151
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 150--151
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 150--151
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 150--151
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 150--151
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 150--151
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 150--151
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 u
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 150--151
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 150--151
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 150--151
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 150--151
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 150--151
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 ^o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 150--151
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 150--151
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 150--151
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 150--151
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 150--151
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 150--151
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 150--151
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 ~o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 150--151
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 150--151
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 150--151
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 150--151
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 c
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 150--151
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 164--165
 \/cmr/m/n/10 e
  []
 
@@ -26586,7 +26781,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.152 \item M
+l.166 \item M
              anutenção e atualizações automatizadas: Muito tempo de TI �...
 
 Try typing  <return>  to proceed.
@@ -26921,52 +27116,52 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 152--153
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 166--167
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 152--153
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 166--167
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 152--153
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 166--167
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 152--153
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 166--167
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 152--153
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 166--167
 \/cmr/m/n/10 ^o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 152--153
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 166--167
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 152--153
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 166--167
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 152--153
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 166--167
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 152--153
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 166--167
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 152--153
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 166--167
 \/cmr/m/n/10 c~o 
  []
 
@@ -26977,7 +27172,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.154 \item R
+l.168 \item R
              ecuperação automatizada de erros humanos: Muitas das interrup...
 
 Try typing  <return>  to proceed.
@@ -27318,42 +27513,42 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 154--155
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 168--169
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 154--155
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 168--169
 \/cmr/m/n/10 c~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 154--155
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 168--169
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 154--155
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 168--169
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 154--155
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 168--169
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 154--155
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 168--169
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 154--155
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 168--169
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 154--155
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 168--169
 \/cmr/m/n/10 a 
  []
 
@@ -27364,7 +27559,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.156 \item O
+l.170 \item O
              timização da Infraestrutura do Oracle Database Cloud: O Oracl...
 
 Try typing  <return>  to proceed.
@@ -27689,29 +27884,29 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.157 \end{alineas}
+l.171 \end{alineas}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 156--158
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 170--172
 \/cmr/m/n/10 c~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 156--158
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 170--172
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 156--158
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 170--172
 \/cmr/m/n/10 e
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 156--158
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 170--172
 \/cmr/m/n/10 c~a
  []
 
@@ -27723,11 +27918,11 @@ Overfull \hbox (9.44446pt too wide) in paragraph at lines 156--158
 
  
 Here is how much of TeX's memory you used:
- 45 strings out of 479618
- 756 string characters out of 2863601
- 289682 words of memory out of 3000000
- 17314 multiletter control sequences out of 15000+200000
- 403738 words of font info for 28 fonts, out of 3000000 for 9000
+ 34 strings out of 492450
+ 518 string characters out of 3121406
+ 78647 words of memory out of 3000000
+ 4491 multiletter control sequences out of 15000+200000
+ 3948 words of font info for 15 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,4n,42p,4446b,104s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 17i,4n,22p,2439b,97s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
