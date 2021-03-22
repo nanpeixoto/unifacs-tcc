@@ -28,13 +28,12 @@ Dispon{\'\i}vel em:
 Dispon{\'\i}vel em: \url{https://www.bbc.com/portuguese/geral-37698750}. Acesso
   em: 02 jan. 2020.}
 
-<<<<<<< HEAD
 \bibitem[Brasil 2021]{OCI}
 \abntrefinfo{Brasil}{BRASIL}{2021}
 {BRASIL, O. \textbf{Oracle Cloud Infrastructure}. 2021.
 Dispon{\'\i}vel em: \url{https://www.oracle.com/br/cloud/}. Acesso em: 17 jan.
   2021.}
-=======
+
 \bibitem[DATABASE 2018]{OracleAut}
 \abntrefinfo{DATABASE}{DATABASE}{2018}
 {DATABASE, O.~A. \textbf{Oracle Autonomous Database White Paper Series: The
@@ -42,7 +41,6 @@ Dispon{\'\i}vel em: \url{https://www.oracle.com/br/cloud/}. Acesso em: 17 jan.
 Dispon{\'\i}vel em:
   \url{http://www.oracle.com/us/products/database/autonomous-database-self-repairing-5116047.pdf}.
   Acesso em: 10 jan. 2020.}
->>>>>>> dc944191109b64bf8bd209918a06d9c77aa11d4e
 
 \bibitem[Higa 2018]{TecnoBlog}
 \abntrefinfo{Higa}{HIGA}{2018}
@@ -71,14 +69,6 @@ Dispon{\'\i}vel em:
 Dispon{\'\i}vel em:
   \url{https://www.oracle.com/br/database/what-is-autonomous-database.html}.
   Acesso em: 02 jan. 2020.}
-
-\bibitem[Pina 2018]{OracleBlog}
-\abntrefinfo{Pina}{PINA}{2018}
-{PINA, J. \textbf{Bancos de Dados Autônomos: a próxima geração de bancos de
-  dados inteligentes}. 2018.
-Dispon{\'\i}vel em:
-  \url{https://blogs.oracle.com/itbr/bancos-de-dados-autonomos-a-proxima-geracao-de-bancos-de-dados-inteligentes}.
-  Acesso em: 14 jan. 2019.}
 
 \bibitem[Ravikumar 2015]{OracleExadata}
 \abntrefinfo{Ravikumar}{RAVIKUMAR}{2015}

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.26)  1 FEB 2021 16:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.22)  22 MAR 2021 10:16
 entering extended mode
 **./unifacs.tex
 (unifacs.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03>
+L3 programming layer <2021-02-18>
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2.cls
 Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
@@ -15,8 +15,8 @@ ment class
 \onelineskip=\skip47
 \lxvchars=\skip48
 \xlvchars=\skip49
-\@memcnta=\count177
-\c@@memmarkcntra=\count178
+\@memcnta=\count179
+\c@@memmarkcntra=\count180
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
@@ -38,20 +38,20 @@ File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
 \mem@maxheadheight=\skip61
 \mem@maxfootheight=\skip62
 \headwidth=\skip63
-\c@storedpagenumber=\count179
+\c@storedpagenumber=\count181
 \memPD=\dimen138
 \m@mabparskip=\skip64
 \thanksmarkwidth=\skip65
 \thanksmarksep=\skip66
 \droptitle=\skip67
-\c@book=\count180
-\c@part=\count181
-\c@chapter=\count182
-\c@section=\count183
-\c@subsection=\count184
-\c@subsubsection=\count185
-\c@paragraph=\count186
-\c@subparagraph=\count187
+\c@book=\count182
+\c@part=\count183
+\c@chapter=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
 \beforechapskip=\skip68
 \midchapskip=\skip69
 \afterchapskip=\skip70
@@ -73,8 +73,8 @@ File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
 \beforesubparaskip=\skip86
 \aftersubparaskip=\skip87
 \pfbreakskip=\skip88
-\c@@ppsavesec=\count188
-\c@@ppsaveapp=\count189
+\c@@ppsavesec=\count190
+\c@@ppsaveapp=\count191
 \ragrparindent=\dimen139
 \everylistparindent=\dimen140
 \parsepi=\skip89
@@ -96,10 +96,10 @@ File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
 \absrightindent=\skip103
 \absparindent=\skip104
 \absparsep=\skip105
-\c@vslineno=\count190
-\c@poemline=\count191
-\c@modulo@vs=\count192
-\c@memfvsline=\count193
+\c@vslineno=\count192
+\c@poemline=\count193
+\c@modulo@vs=\count194
+\c@memfvsline=\count195
 \vleftskip=\skip106
 \vrightskip=\skip107
 \stanzaskip=\skip108
@@ -107,11 +107,11 @@ File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
 \vgap=\skip110
 \vindent=\skip111
 \vleftmargin=\dimen142
-\c@verse=\count194
-\c@chrsinstr=\count195
+\c@verse=\count196
+\c@chrsinstr=\count197
 \beforepoemtitleskip=\skip112
 \afterpoemtitleskip=\skip113
-\c@poem=\count196
+\c@poem=\count198
 \beforePoemTitleskip=\skip114
 \midPoemTitleskip=\skip115
 \afterPoemTitleskip=\skip116
@@ -143,7 +143,7 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@old@col=\dimen147
 \TX@target=\dimen148
 \TX@delta=\dimen149
-\TX@cols=\count197
+\TX@cols=\count199
 \TX@ftn=\toks17
 )
 \heavyrulewidth=\dimen150
@@ -156,22 +156,22 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \cmidrulesep=\dimen157
 \cmidrulekern=\dimen158
 \defaultaddspace=\dimen159
-\@cmidla=\count198
-\@cmidlb=\count199
+\@cmidla=\count266
+\@cmidlb=\count267
 \@aboverulesep=\dimen160
 \@belowrulesep=\dimen161
-\@thisruleclass=\count266
-\@lastruleclass=\count267
+\@thisruleclass=\count268
+\@lastruleclass=\count269
 \@thisrulewidth=\dimen162
 \ctableftskip=\skip119
 \ctabrightskip=\skip120
-\abovecolumnspenalty=\count268
-\@linestogo=\count269
-\@cellstogo=\count270
-\@cellsincolumn=\count271
+\abovecolumnspenalty=\count270
+\@linestogo=\count271
+\@cellstogo=\count272
+\@cellsincolumn=\count273
 \crtok=\toks18
 \@mincolumnwidth=\dimen163
-\c@newflo@tctr=\count272
+\c@newflo@tctr=\count274
 \mem@margin@floatbox=\box49
 \@contcwidth=\skip121
 \@contindw=\skip122
@@ -183,7 +183,7 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \subfloatbottomskip=\skip128
 \subfloatlabelskip=\skip129
 \subfloatcapmargin=\dimen164
-\c@@contsubnum=\count273
+\c@@contsubnum=\count275
 \m@mscap@capbox=\box50
 \m@mscap@fbox=\box51
 \sidecapsep=\dimen165
@@ -227,7 +227,7 @@ LaTeX Info: Redefining \emph on input line 7686.
 \cftsubparagraphindent=\skip157
 \cftsubparagraphnumwidth=\skip158
 \prechapterprecisshift=\dimen174
-\c@maxsecnumdepth=\count274
+\c@maxsecnumdepth=\count276
 \bibindent=\dimen175
 \bibitemsep=\skip159
 \indexcolsep=\skip160
@@ -248,7 +248,7 @@ LaTeX Info: Redefining \emph on input line 7686.
 \footinsdim=\skip170
 \footinsv@r=\insert250
 \@mpfootinsv@r=\insert249
-\m@m@k=\count275
+\m@m@k=\count277
 \m@m@h=\dimen178
 \m@mipn@skip=\skip171
 \sidefootins=\insert248
@@ -258,55 +258,55 @@ LaTeX Info: Redefining \emph on input line 7686.
 \sidefootvsep=\skip175
 \sidefootwidth=\skip176
 \m@mdownsf=\skip177
-\c@sidefootnote=\count276
+\c@sidefootnote=\count278
 \sidefootmarkwidth=\skip178
 \sidefootmarksep=\skip179
 \sidefootparindent=\skip180
-\c@pagenote=\count277
-\c@pagenoteshadow=\count278
+\c@pagenote=\count279
+\c@pagenoteshadow=\count280
 \mem@pn@lastkern=\skip181
 \every@verbatim=\toks20
 \afterevery@verbatim=\toks21
 \verbatim@line=\toks22
-\tab@position=\count279
+\tab@position=\count281
 \verbatim@in@stream=\read2
 \verbatimindent=\skip182
 \verbatim@out=\write3
 \bvboxsep=\skip183
-\c@memfbvline=\count280
-\c@bvlinectr=\count281
+\c@memfbvline=\count282
+\c@bvlinectr=\count283
 \bvnumlength=\skip184
 \fb@frw=\dimen179
 \fb@frh=\dimen180
 \FrameRule=\dimen181
 \FrameSep=\dimen182
-\c@cp@cntr=\count282
-\c@ism@mctr=\count283
-\c@xsm@mctr=\count284
-\c@csm@mctr=\count285
-\c@ksm@mctr=\count286
-\c@xksm@mctr=\count287
-\c@cksm@mctr=\count288
-\c@msm@mctr=\count289
-\c@xmsm@mctr=\count290
-\c@cmsm@mctr=\count291
-\c@bsm@mctr=\count292
-\c@workm@mctr=\count293
-\c@sheetsequence=\count294
-\c@lastsheet=\count295
-\c@lastpage=\count296
+\c@cp@cntr=\count284
+\c@ism@mctr=\count285
+\c@xsm@mctr=\count286
+\c@csm@mctr=\count287
+\c@ksm@mctr=\count288
+\c@xksm@mctr=\count289
+\c@cksm@mctr=\count290
+\c@msm@mctr=\count291
+\c@xmsm@mctr=\count292
+\c@cmsm@mctr=\count293
+\c@bsm@mctr=\count294
+\c@workm@mctr=\count295
+\c@sheetsequence=\count296
+\c@lastsheet=\count297
+\c@lastpage=\count298
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.st
 y
 Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
 )
-\c@figure=\count297
-\c@lofdepth=\count298
+\c@figure=\count299
+\c@lofdepth=\count300
 \cftbeforefigureskip=\skip185
 \cftfigureindent=\skip186
 \cftfigurenumwidth=\skip187
-\c@table=\count299
-\c@lotdepth=\count300
+\c@table=\count301
+\c@lotdepth=\count302
 \cftbeforetableskip=\skip188
 \cfttableindent=\skip189
 \cfttablenumwidth=\skip190
@@ -344,7 +344,7 @@ Package verse [2008/07/23] emulated by memoir.
 )
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.st
 y
-Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.st
 y
@@ -394,13 +394,18 @@ sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen183
-\Hy@linkcounter=\count301
-\Hy@pagecounter=\count302
+\Hy@linkcounter=\count303
+\Hy@pagecounter=\count304
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-la
+ngpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
 )
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.st
 y
@@ -410,20 +415,27 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count303
-Package hyperref Info: Hyper figures OFF on input line 4464.
-Package hyperref Info: Link nesting OFF on input line 4469.
-Package hyperref Info: Hyper index ON on input line 4472.
-Package hyperref Info: Plain pages OFF on input line 4479.
-Package hyperref Info: Backreferencing OFF on input line 4484.
+\Hy@SavedSpaceFactor=\count305
+
+(C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count304
- (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count306
+
+(C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5076.
+LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen184
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
@@ -434,18 +446,18 @@ alc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count305
+\Fld@menulength=\count307
 \Field@Width=\dimen185
 \Fld@charsize=\dimen186
-Package hyperref Info: Hyper figures OFF on input line 6347.
-Package hyperref Info: Link nesting OFF on input line 6352.
-Package hyperref Info: Hyper index ON on input line 6355.
-Package hyperref Info: backreferencing OFF on input line 6362.
-Package hyperref Info: Link coloring OFF on input line 6367.
-Package hyperref Info: Link coloring with OCG OFF on input line 6372.
-Package hyperref Info: PDF/A mode OFF on input line 6377.
-LaTeX Info: Redefining \ref on input line 6417.
-LaTeX Info: Redefining \pageref on input line 6421.
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.st
 y
@@ -453,20 +465,20 @@ Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
 )
-\Hy@abspage=\count306
-\c@Item=\count307
-\c@Hfootnote=\count308
+\Hy@abspage=\count308
+\c@Item=\count309
+\c@Hfootnote=\count310
 )
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfixc.sty
 Package: memhfixc 2019/10/24 v1.18 nameref/hyperref package fixes for memoir cl
 ass
-\c@memhycontfloat=\count309
-\c@Hpagenote=\count310
+\c@memhycontfloat=\count311
+\c@Hpagenote=\count312
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.s
 ty
@@ -474,8 +486,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count311
-\c@bookmark@seq@number=\count312
+\Fld@listcount=\count313
+\c@bookmark@seq@number=\count314
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerun
 filecheck.sty
@@ -497,14 +509,14 @@ Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.
 def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count313
+\BKM@id=\count315
 ))
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2020/12/16 3.52 The Babel package
+Package: babel 2021/03/03 3.55 The Babel package
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
-File: babel.def 2020/12/16 3.52 Babel common definitions
-\babel@savecnt=\count314
+File: babel.def 2021/03/03 3.55 Babel common definitions
+\babel@savecnt=\count316
 \U@D=\dimen187
 \l@babelnohyphens=\language79
 
@@ -512,7 +524,7 @@ File: babel.def 2020/12/16 3.52 Babel common definitions
 )
 \bbl@readstream=\read3
 )
-\bbl@dirlevel=\count315
+\bbl@dirlevel=\count317
 
 *************************************
 * Local config file bblopts.cfg used
@@ -533,7 +545,7 @@ Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 )
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazi
 l.ldf
-Language: portuges 2020/05/04 v1.2r Portuguese support from the babel system
+Language: portuges 2021/02/04 v1.2s Portuguese support from the babel system
 Package babel Info: \l@brazil = using hyphenrules for portuguese
 (babel)             (\language56) on input line 111.
 Package babel Info: Making " an active character on input line 143.
@@ -545,20 +557,20 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@outerparindent=\dimen188
 \enit@toks=\toks24
 \enit@inbox=\box52
-\enit@count@id=\count316
-\enitdp@description=\count317
+\enit@count@id=\count318
+\enitdp@description=\count319
 )
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count318
-\calc@Bcount=\count319
+\calc@Acount=\count320
+\calc@Bcount=\count321
 \calc@Adimen=\dimen189
 \calc@Bdimen=\dimen190
 \calc@Askip=\skip193
 \calc@Bskip=\skip194
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count320
+\calc@Ccount=\count322
 \calc@Cskip=\skip195
 )
 
@@ -581,17 +593,17 @@ Sidefoothsep and sidefootwidth: 7pt and 92pt
 Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
 ******************************************************
 
-\c@abntex@bookmarkcounter=\count321
+\c@abntex@bookmarkcounter=\count323
 \cftlastnumwidth=\skip196
 \chapternamenumlength=\skip197
 \ABNTEXcitacaorecuo=\skip198
-\c@alineasi=\count322
-\c@alineasii=\count323
-\enitdp@alineas=\count324
-\c@subalineasi=\count325
-\enitdp@subalineas=\count326
-\c@incisosi=\count327
-\enitdp@incisos=\count328
+\c@alineasi=\count324
+\c@alineasii=\count325
+\enitdp@alineas=\count326
+\c@subalineasi=\count327
+\enitdp@subalineas=\count328
+\c@incisosi=\count329
+\enitdp@incisos=\count330
 \ABNTEXsignwidth=\skip199
 \ABNTEXsignthickness=\skip256
 \ABNTEXsignskip=\skip257
@@ -688,17 +700,18 @@ Package color Info: Driver file: pdftex.def on input line 147.
 )
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.
 sty
-Package: microtype 2020/12/07 v2.8 Micro-typographical refinements (RS)
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
 \MT@toks=\toks27
-\MT@count=\count329
-LaTeX Info: Redefining \textls on input line 788.
+\MT@count=\count331
+LaTeX Info: Redefining \textls on input line 790.
 \MT@outer@kern=\dimen193
-LaTeX Info: Redefining \textmicrotypecontext on input line 1358.
-\MT@listname@count=\count330
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+\MT@listname@count=\count332
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-
 pdftex.def
-File: microtype-pdftex.def 2020/12/07 v2.8 Definitions specific to pdftex (RS)
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+
 LaTeX Info: Redefining \lsstyle on input line 915.
 LaTeX Info: Redefining \lslig on input line 915.
 \MT@outer@space=\skip258
@@ -707,7 +720,7 @@ Package microtype Info: Loading configuration file microtype.cfg.
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.
 cfg
-File: microtype.cfg 2020/12/07 v2.8 microtype main configuration file (RS)
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
 ))
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2cite.
 sty
@@ -717,8 +730,8 @@ Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
 .sty)
 \minimumbiblabelwidth=\skip259
 \ABCIauxlen=\skip260
-\c@ABCIaux=\count331
-\c@ABCImax=\count332
+\c@ABCIaux=\count333
+\c@ABCImax=\count334
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
@@ -735,25 +748,25 @@ LaTeX Info: Redefining \cite on input line 618.
 \ABCItoken=\toks28
 ) (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2021-01-09 L3 programming layer (loader) 
+Package: expl3 2021-02-18 L3 programming layer (loader) 
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
 pdftex.def
-File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count333
+File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count335
 \l__pdf_internal_box=\box53
 ))
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xp
 arse.sty
-Package: xparse 2020-10-27 L3 Experimental document command parser
-
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xp
-arse-generic.tex))
-Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+arse-2020-10-01.sty
+(C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xp
+arse-generic.tex)))
+Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.te
 x
-File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
 ))
 \unifacs@idxfile=\write4
 \openout4 = `unifacs.idx'.
@@ -780,10 +793,12 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
 LaTeX Font Info:    ... okay on input line 58.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
 LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
 Package hyperref Info: Link coloring OFF on input line 58.
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.st
 y
@@ -793,7 +808,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 titlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count334
+\c@section@level=\count336
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -807,16 +822,16 @@ LaTeX Info: Redefining \nameref on input line 58.
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
 .mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count335
+\scratchcounter=\count337
 \scratchdimen=\dimen194
 \scratchbox=\box55
-\nofMPsegments=\count336
-\nofMParguments=\count337
+\nofMPsegments=\count338
+\nofMParguments=\count339
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count338
+\MPscratchCnt=\count340
 \MPscratchDim=\dimen195
-\MPnumerator=\count339
-\makeMPintoPDFobject=\count340
+\MPnumerator=\count341
+\makeMPintoPDFobject=\count342
 \everyMPtoPDFconversion=\toks30
 )
 (C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
@@ -824,7 +839,11 @@ f-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-)
+
+(C:\Users\Fernanda\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sy
+s.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 58.
@@ -965,13 +984,13 @@ AED: lastpage setting LastPage
  (unifacs.aux (introducao/introducao.aux) (metodologia/metodologia.aux)
 (fundamentacao/fundamentacao.aux) (conclusao/conclusao.aux)) ) 
 Here is how much of TeX's memory you used:
- 13213 strings out of 479618
- 210175 string characters out of 2863601
- 753140 words of memory out of 3000000
- 29872 multiletter control sequences out of 15000+200000
- 449278 words of font info for 123 fonts, out of 3000000 for 9000
+ 15847 strings out of 479324
+ 246083 string characters out of 2855390
+ 783646 words of memory out of 3000000
+ 32777 multiletter control sequences out of 15000+600000
+ 452294 words of font info for 126 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,12n,88p,1419b,603s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 86i,12n,88p,1419b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Fernand
 a/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Fernanda
 /AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Ferna
@@ -982,9 +1001,9 @@ s/Fernanda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/U
 sers/Fernanda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C
 :/Users/Fernanda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.p
 fb>
-Output written on unifacs.pdf (30 pages, 290725 bytes).
+Output written on unifacs.pdf (30 pages, 299617 bytes).
 PDF statistics:
- 357 PDF objects out of 1000 (max. 8388607)
- 97 named destinations out of 1000 (max. 500000)
- 24702 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 379 PDF objects out of 1000 (max. 8388607)
+ 101 named destinations out of 1000 (max. 500000)
+ 26774 words of extra memory for PDF output out of 29859 (max. 10000000)
 
