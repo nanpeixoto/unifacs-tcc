@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.22)  22 MAR 2021 10:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.22)  22 MAR 2021 22:24
 entering extended mode
 **./unifacs.tex
 (unifacs.tex
@@ -960,37 +960,37 @@ l.70
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-[12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22]) [23]
+[12] [13] [14] [15] [16] [17] [18] [19] [20] [21]) [22]
 \openout2 = `conclusao/conclusao.aux'.
 
 
-(conclusao/conclusao.tex [24
+(conclusao/conclusao.tex) [23
 
 
 
 
-]) [25] (unifacs.bbl [26
+] (unifacs.bbl [24
 
 
 
 ]
 bibitemlist
-[27]) 
+[25]) 
 AED: lastpage setting LastPage
-[28]
+[26]
 \tf@toc=\write5
 \openout5 = `unifacs.toc'.
 
  (unifacs.aux (introducao/introducao.aux) (metodologia/metodologia.aux)
 (fundamentacao/fundamentacao.aux) (conclusao/conclusao.aux)) ) 
 Here is how much of TeX's memory you used:
- 15847 strings out of 479324
- 246083 string characters out of 2855390
+ 15845 strings out of 479324
+ 246069 string characters out of 2855390
  783646 words of memory out of 3000000
  32777 multiletter control sequences out of 15000+600000
  452294 words of font info for 126 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,12n,88p,1419b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 86i,12n,88p,1417b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Fernand
 a/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Fernanda
 /AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Ferna
@@ -1001,9 +1001,9 @@ s/Fernanda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/U
 sers/Fernanda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C
 :/Users/Fernanda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.p
 fb>
-Output written on unifacs.pdf (30 pages, 299617 bytes).
+Output written on unifacs.pdf (28 pages, 297594 bytes).
 PDF statistics:
- 379 PDF objects out of 1000 (max. 8388607)
- 101 named destinations out of 1000 (max. 500000)
+ 371 PDF objects out of 1000 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
  26774 words of extra memory for PDF output out of 29859 (max. 10000000)
 
